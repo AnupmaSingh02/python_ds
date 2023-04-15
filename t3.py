@@ -1,0 +1,22 @@
+import turtle
+from turtle import *
+pencolor('black')
+speed('slowest')
+# octagon
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+mainloop()
